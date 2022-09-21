@@ -1,5 +1,5 @@
 # Mini Project 1
-Details found in PDF in this folder.
+Details found in PDF in this folder. Repo Link https://github.com/btakli/COMP472-Mini-Projects/
 
 ## Anaconda environment setup (Windows)
 1. Download `miniconda` using this link https://conda.io/projects/conda/en/latest/user-guide/install/windows.html
