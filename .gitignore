@@ -6,6 +6,9 @@ __pycache__/
 # Mac file
 .DS_Store
 
+# Intelli_J files
+.idea
+
 # C extensions
 *.so
 
